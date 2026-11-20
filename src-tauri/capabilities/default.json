@@ -3,5 +3,5 @@
   "identifier": "default",
   "description": "Default permissions for Limon Calculator",
   "windows": ["main"],
-  "permissions": ["core:default"]
+  "permissions": ["core:default", "core:window:allow-set-effects"]
 }
